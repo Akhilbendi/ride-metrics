@@ -74,6 +74,14 @@ flutter test
 flutter run
 ```
 
+## Download the APK
+
+The latest installable Android build is available from GitHub Releases:
+
+[Download the latest Ride Metrics APK](https://github.com/Akhilbendi/ride-metrics/releases/latest/download/ride_metrics.apk)
+
+The APK is published as a release asset instead of being committed to the source tree, keeping the repository lightweight while still providing a direct download for demos and interviews.
+
 ## Build the Android APK
 
 ```bash
