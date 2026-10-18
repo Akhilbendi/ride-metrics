@@ -94,12 +94,4 @@ The generated APK is written to:
 build/app/outputs/flutter-apk/app-release.apk
 ```
 
-## Interview-ready project summary
 
-> Ride Metrics is an offline-first Flutter vehicle management app I built to solve a practical record-keeping problem. It supports multiple vehicles, fuel cost and mileage calculations, editable records, document storage, maintenance reminders, budget planning, and trend analysis. I designed the data model so a single fuel entry can drive dashboard statistics, charts, range estimates, and station comparisons while keeping user data private and local.
-
-## Verification
-
-- `flutter test` passes
-- `flutter build apk --release` completes successfully
-- The generated Android release APK includes the custom Ride Metrics launcher icon
